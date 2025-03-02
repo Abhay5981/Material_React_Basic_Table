@@ -1,10 +1,10 @@
-#Material React Table v2
+# Material React Table v2
 
-#Overview
+# Overview
 
 This project uses Material React Table v2 to create a configurable and dynamic table UI in a React application. The table supports features like filtering, multi-select filtering, sorting, pagination, row selection, and dynamic column configuration.
 
-#Features
+# Features
 
 - Column Sorting: Users can sort data by clicking on column headers.
 
