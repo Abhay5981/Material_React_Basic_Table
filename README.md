@@ -1,4 +1,4 @@
-# Material React Table v2
+# Material React Table v2[Live](https://sparkling-pixie-364090.netlify.app/)
 
 # Overview
 
