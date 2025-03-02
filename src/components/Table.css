@@ -1,0 +1,22 @@
+.main_conatiner{
+    margin: 1rem 1rem;
+    padding: 1rem;
+    background: gray;
+}
+.avatar{
+    width: 100px;
+    border-radius: 50%;
+    border: 1px solid gray;
+
+}
+
+.status {
+    padding: 4px 10px;
+    border-radius:10px;
+    font-weight: bold;
+    text-transform: capitalize;
+    background-color: #CCE6FF;
+    color: blue;
+  }
+  
+  
